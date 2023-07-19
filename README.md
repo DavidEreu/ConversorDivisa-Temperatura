@@ -16,6 +16,6 @@ Es proyecto creado para la conversion de divisas como lo son:
 - Convertir de Yen Japonés a PesosColombianos
 - Convertir de Won sul-coreano a PesosColombianos
   
-Tambien convierte las temperaturas.
+Tambien realiza la conversion de las temperaturas.
 
 Creador del proyecto: Cristhian David Ereu Morales
