@@ -18,4 +18,4 @@ Es proyecto creado para la conversion de divisas como lo son:
   
 Tambien convierte las temperaturas.
 
-
+Creador del proyecto: Cristhian David Ereu Morales
